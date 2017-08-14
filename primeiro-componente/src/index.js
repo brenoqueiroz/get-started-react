@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Welcome from './Welcome';
+import Clock from './Clock';
 
-ReactDOM.render(<Welcome name="Breno Queiroz" />, document.getElementById('root'));
+ReactDOM.render(<Clock />, document.getElementById('root'));
